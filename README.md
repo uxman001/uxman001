@@ -1,4 +1,4 @@
-                                     ## Hi there, I'm Muhammad Usman
+# Hi there, I'm Muhammad Usman
 
 I am a Information Technology student focused on software development, building automation tools, and mastering data structures. 
 
