@@ -1,16 +1,16 @@
-## Hi there 👋
+                                     ## Hi there, I'm Muhammad Usman
 
-<!--
-**uxman001/uxman001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Information Technology student focused on software development, building automation tools, and mastering data structures. 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, OOP Concepts, C++
+- **Tools & Core:** Git, GitHub, OS Module scripting, Command-line automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- 🐍 Developing custom Python automation scripts and voice assistant workflows.
+- 📚 Refining my knowledge of core data structures and operating systems.
+- 🎯 Preparing for technical and analytical recruitment assessments.
+
+### 📬 Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-usman-949b68368
+- **Email:** 2024gcg405@gmail.com
